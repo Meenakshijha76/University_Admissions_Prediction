@@ -3,11 +3,14 @@
                      University_Admissions_Prediction(Prediction of chance of admission in university)
 
 ### _**Description**_: 
-                     In this project, we trained different models to find the probability of a student getting accepted into a particular university based on their profile. This project could be practically used to get the university acceptance rate for individual students using web application.
+                     In this project, we trained different models to find the probability of a student getting accepted into 
+                     a particular university based on their profile.This project could be practically used to get the university
+                     acceptance rate for individual students using web application.
 
              
 ### _**Aim**_:       
-                   The ease of making better choices and decisions in terms of admission. This analysis of a student getting accepted into a particular university based on their profile,makes it easier for them to make accurate decision about their preferred colleges. Our analysis with different models would help giving probable accuracy and this requires analytical methods for predicting future recommendation.
+                   The ease of making better choices and decisions in terms of admission. This analysis of a student getting accepted into a particular university based on their                    profile,makes it easier for them to make accurate decision about their preferred colleges. Our analysis with different models would help giving probable
+                   accuracy and this requires analytical methods for predicting future recommendation.
                    Today, most students make mistakes in their preference list due to lack of knowledge, improper and incorrect analysis of colleges and insecure predictions. 
                    Hence, repent and regret later. Our project will solve the general issue of the student community by using technology.
              
